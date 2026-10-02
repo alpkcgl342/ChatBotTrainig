@@ -23,3 +23,4 @@ pip3 install -r requirements.txt
 nano .env
 
 nohup python3 main.py
+ 
